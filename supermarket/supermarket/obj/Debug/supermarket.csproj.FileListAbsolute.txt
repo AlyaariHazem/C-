@@ -1,0 +1,17 @@
+C:\Users\حازم\source\repos\supermarket\supermarket\obj\Debug\supermarket.csprojAssemblyReference.cache
+C:\Users\حازم\source\repos\supermarket\supermarket\obj\Debug\supermarket.csproj.CoreCompileInputs.cache
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\supermarket.exe.config
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\supermarket.exe
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\supermarket.pdb
+C:\Users\حازم\source\repos\supermarket\supermarket\obj\Debug\supermarket.exe
+C:\Users\حازم\source\repos\supermarket\supermarket\obj\Debug\supermarket.pdb
+C:\Users\حازم\source\repos\supermarket\supermarket\obj\Debug\supermarket.exe.config
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Text.Json.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Memory.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Buffers.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\حازم\source\repos\supermarket\supermarket\obj\Debug\supermarket.csproj.CopyComplete
